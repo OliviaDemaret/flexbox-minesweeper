@@ -20,10 +20,26 @@ body {
   flex-wrap: wrap;
 }
 .case {
+  text-align: center;
+  align-items: center;
   width: 30px;
   height: 30px;
 }
 .dotted {
-  border-bottom-style: dotted;
-  border-left-style: dotted;
+  border-top-style: dotted;
+  border-right-style: dotted;
+}
+
+.one {
+  color: #5700ff;
+  border-color: black;
+}
+
+.two {
+  color: #009e00;
+  border-color: black;
+}
+.three {
+  color: #ff0000;
+  border-color: black;
 }
