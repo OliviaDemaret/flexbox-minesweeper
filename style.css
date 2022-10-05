@@ -1,4 +1,4 @@
-@import url(('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Silkscreen&display=swap");
 body {
   background-color: purple;
   font-family: "Silkscreen";
@@ -26,4 +26,4 @@ body {
 .dotted {
   border-bottom-style: dotted;
   border-left-style: dotted;
-};
+}
