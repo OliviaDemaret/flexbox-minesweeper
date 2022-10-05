@@ -43,3 +43,37 @@ body {
   color: #ff0000;
   border-color: black;
 }
+
+.h {
+  width: 31px;
+  color: #cacaca;
+  border-style: ridge;
+  border-width: 1px;
+  border-color: black;
+}
+
+.one.h:hover {
+  color: #5700ff;
+  border-color: black;
+}
+
+.two.h:hover {
+  color: #009e00;
+  border-color: black;
+}
+
+.three.h:hover {
+  color: #ff0000;
+  border-color: black;
+}
+
+.bomb.h {
+  opacity: 0;
+  border-style: ridge;
+  border-width: 1px;
+  border-color: black;
+}
+
+.bomb.h:hover {
+  opacity: 1;
+}
